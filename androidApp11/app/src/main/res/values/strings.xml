@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smokeless Journey</string>
+    <string name="settings">Settings</string>
+    <string name="days_clean_0">Days Clean: 0</string>
+    <string name="euros_saved_0">Euros Saved: 0</string>
+    <string name="smokeless_journey">Smokeless Journey</string>
+    <string name="reset_days_clean">Reset Days Clean</string>
+    <string name="submit">Submit</string>
+    <string name="days_clean">Days Clean: %1$d</string>
+    <string name="euros_saved">Euros Saved: %.2f</string>
+    <string name="enter_packages_per_day">Enter Packages Per Day</string>
+    <string name="enter_euros_per_package_price">Enter Euros Per Package Price</string>
+    <string name="input_explanation">Input explanation</string>
+    <string name="extremely_strong">Extremely Strong</string>
+    <string name="not_strong">Not Strong</string>
+    <string name="input_cravings_strength_of_the_day_and_a_brief_note_about_them">Input cravings strength of the day and a brief note about them.</string>
+    <string name="submit2">Submit</string>
+</resources>
